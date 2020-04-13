@@ -17,7 +17,7 @@
         <version>2.1.2.RELEASE</version>
     </parent>
 
-       <!-- Adding Properties description information -->
+       <!-- Adding Properties description about version information -->
        <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
